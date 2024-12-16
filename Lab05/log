@@ -1,0 +1,12 @@
+/home/neoklitos/Lab05
+log
+-bash: cd: too many arguments
+-bash: cd: too many arguments
+find: paths must precede expression: `ls'
+./log
+/home/neoklitos/Lab05
+log
+-bash: cd: too many arguments
+-bash: cd: too many arguments
+find: paths must precede expression: `ls'
+./log
